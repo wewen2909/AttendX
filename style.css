@@ -1,0 +1,10 @@
+.navbar a {
+    color: blue; /* Default link color */
+    text-decoration: none; /* Remove underline */
+  }
+  
+.navbar a:hover {
+    color: red; /* New color on hover */
+    text-decoration: underline; /* Underline on hover */
+  }
+
